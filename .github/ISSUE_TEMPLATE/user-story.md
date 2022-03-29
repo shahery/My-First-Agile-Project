@@ -1,10 +1,10 @@
 ---
 name: User Story
-about: This is our default user story template
+about: Creating a poll
 title: ''
 labels: ''
 assignees: shahery
 
 ---
 
-As a **role** I can **capability** so that **received benefit**
+In order to provide **info** as a user, I can **info**
